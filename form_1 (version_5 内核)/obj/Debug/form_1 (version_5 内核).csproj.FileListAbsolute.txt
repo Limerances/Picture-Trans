@@ -1,0 +1,20 @@
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\bin\Debug\form_1 (version_5 内核).exe.config
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\bin\Debug\form_1 (version_5 内核).exe
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\bin\Debug\form_1 (version_5 内核).pdb
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).csproj.AssemblyReference.cache
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1__version_5_内核_.Properties.Resources.resources
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).csproj.GenerateResource.cache
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).csproj.CoreCompileInputs.cache
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).exe
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).pdb
+C:\Users\Limerance\Desktop\C#\Trans\form_1 (version_5 内核)\obj\Debug\form_1__version_5_内核_.Form1.resources
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\bin\Debug\form_1 (version_5 内核).exe.config
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\bin\Debug\form_1 (version_5 内核).exe
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\bin\Debug\form_1 (version_5 内核).pdb
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).csproj.AssemblyReference.cache
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1__version_5_内核_.Form1.resources
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1__version_5_内核_.Properties.Resources.resources
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).csproj.GenerateResource.cache
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).csproj.CoreCompileInputs.cache
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).exe
+C:\Users\Limerance\Desktop\C#\tem\form_1 (version_5 内核)\obj\Debug\form_1 (version_5 内核).pdb
